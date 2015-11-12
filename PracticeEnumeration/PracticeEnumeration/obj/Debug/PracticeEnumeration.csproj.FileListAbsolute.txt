@@ -1,0 +1,6 @@
+c:\users\466857\documents\visual studio 2012\Projects\PracticeEnumeration\PracticeEnumeration\bin\Debug\PracticeEnumeration.exe.config
+c:\users\466857\documents\visual studio 2012\Projects\PracticeEnumeration\PracticeEnumeration\bin\Debug\PracticeEnumeration.exe
+c:\users\466857\documents\visual studio 2012\Projects\PracticeEnumeration\PracticeEnumeration\bin\Debug\PracticeEnumeration.pdb
+c:\users\466857\documents\visual studio 2012\Projects\PracticeEnumeration\PracticeEnumeration\obj\Debug\PracticeEnumeration.csprojResolveAssemblyReference.cache
+c:\users\466857\documents\visual studio 2012\Projects\PracticeEnumeration\PracticeEnumeration\obj\Debug\PracticeEnumeration.exe
+c:\users\466857\documents\visual studio 2012\Projects\PracticeEnumeration\PracticeEnumeration\obj\Debug\PracticeEnumeration.pdb

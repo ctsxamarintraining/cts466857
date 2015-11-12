@@ -1,0 +1,6 @@
+c:\users\466857\documents\visual studio 2012\Projects\Exceptions2\Exceptions2\bin\Debug\Exceptions2.exe.config
+C:\Users\466857\Documents\Visual Studio 2012\Projects\Exceptions2\Exceptions2\bin\Debug\Exceptions2.exe
+C:\Users\466857\Documents\Visual Studio 2012\Projects\Exceptions2\Exceptions2\bin\Debug\Exceptions2.pdb
+C:\Users\466857\Documents\Visual Studio 2012\Projects\Exceptions2\Exceptions2\obj\Debug\Exceptions2.csprojResolveAssemblyReference.cache
+C:\Users\466857\Documents\Visual Studio 2012\Projects\Exceptions2\Exceptions2\obj\Debug\Exceptions2.exe
+C:\Users\466857\Documents\Visual Studio 2012\Projects\Exceptions2\Exceptions2\obj\Debug\Exceptions2.pdb

@@ -1,0 +1,5 @@
+c:\users\466857\documents\visual studio 2012\Projects\Day5_5\Day5_5\bin\Debug\Day5_5.exe.config
+c:\users\466857\documents\visual studio 2012\Projects\Day5_5\Day5_5\bin\Debug\Day5_5.exe
+c:\users\466857\documents\visual studio 2012\Projects\Day5_5\Day5_5\bin\Debug\Day5_5.pdb
+c:\users\466857\documents\visual studio 2012\Projects\Day5_5\Day5_5\obj\Debug\Day5_5.exe
+c:\users\466857\documents\visual studio 2012\Projects\Day5_5\Day5_5\obj\Debug\Day5_5.pdb

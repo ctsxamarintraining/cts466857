@@ -1,0 +1,6 @@
+c:\users\466857\documents\visual studio 2012\Projects\Array3\Array3\bin\Debug\Array3.exe.config
+c:\users\466857\documents\visual studio 2012\Projects\Array3\Array3\bin\Debug\Array3.exe
+c:\users\466857\documents\visual studio 2012\Projects\Array3\Array3\bin\Debug\Array3.pdb
+c:\users\466857\documents\visual studio 2012\Projects\Array3\Array3\obj\Debug\Array3.csprojResolveAssemblyReference.cache
+c:\users\466857\documents\visual studio 2012\Projects\Array3\Array3\obj\Debug\Array3.exe
+c:\users\466857\documents\visual studio 2012\Projects\Array3\Array3\obj\Debug\Array3.pdb

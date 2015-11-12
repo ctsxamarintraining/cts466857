@@ -1,0 +1,6 @@
+c:\users\466857\documents\visual studio 2012\Projects\Array4\Array4\bin\Debug\Array4.exe.config
+c:\users\466857\documents\visual studio 2012\Projects\Array4\Array4\obj\Debug\Array4.csprojResolveAssemblyReference.cache
+c:\users\466857\documents\visual studio 2012\Projects\Array4\Array4\bin\Debug\Array4.exe
+c:\users\466857\documents\visual studio 2012\Projects\Array4\Array4\bin\Debug\Array4.pdb
+c:\users\466857\documents\visual studio 2012\Projects\Array4\Array4\obj\Debug\Array4.exe
+c:\users\466857\documents\visual studio 2012\Projects\Array4\Array4\obj\Debug\Array4.pdb

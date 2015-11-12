@@ -1,0 +1,5 @@
+c:\users\466857\documents\visual studio 2012\Projects\Exceptions1\Exceptions1\bin\Debug\Exceptions1.exe.config
+c:\users\466857\documents\visual studio 2012\Projects\Exceptions1\Exceptions1\bin\Debug\Exceptions1.exe
+c:\users\466857\documents\visual studio 2012\Projects\Exceptions1\Exceptions1\bin\Debug\Exceptions1.pdb
+c:\users\466857\documents\visual studio 2012\Projects\Exceptions1\Exceptions1\obj\Debug\Exceptions1.exe
+c:\users\466857\documents\visual studio 2012\Projects\Exceptions1\Exceptions1\obj\Debug\Exceptions1.pdb

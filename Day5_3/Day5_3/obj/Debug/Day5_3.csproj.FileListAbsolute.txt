@@ -1,0 +1,6 @@
+c:\users\466857\documents\visual studio 2012\Projects\Day5_3\Day5_3\bin\Debug\Day5_3.exe.config
+c:\users\466857\documents\visual studio 2012\Projects\Day5_3\Day5_3\bin\Debug\Day5_3.exe
+c:\users\466857\documents\visual studio 2012\Projects\Day5_3\Day5_3\bin\Debug\Day5_3.pdb
+c:\users\466857\documents\visual studio 2012\Projects\Day5_3\Day5_3\obj\Debug\Day5_3.csprojResolveAssemblyReference.cache
+c:\users\466857\documents\visual studio 2012\Projects\Day5_3\Day5_3\obj\Debug\Day5_3.exe
+c:\users\466857\documents\visual studio 2012\Projects\Day5_3\Day5_3\obj\Debug\Day5_3.pdb

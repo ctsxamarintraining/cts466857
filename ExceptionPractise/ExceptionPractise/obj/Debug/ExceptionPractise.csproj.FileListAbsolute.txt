@@ -1,0 +1,6 @@
+c:\users\466857\documents\visual studio 2012\Projects\ExceptionPractise\ExceptionPractise\bin\Debug\ExceptionPractise.exe.config
+c:\users\466857\documents\visual studio 2012\Projects\ExceptionPractise\ExceptionPractise\bin\Debug\ExceptionPractise.exe
+c:\users\466857\documents\visual studio 2012\Projects\ExceptionPractise\ExceptionPractise\bin\Debug\ExceptionPractise.pdb
+c:\users\466857\documents\visual studio 2012\Projects\ExceptionPractise\ExceptionPractise\obj\Debug\ExceptionPractise.csprojResolveAssemblyReference.cache
+c:\users\466857\documents\visual studio 2012\Projects\ExceptionPractise\ExceptionPractise\obj\Debug\ExceptionPractise.exe
+c:\users\466857\documents\visual studio 2012\Projects\ExceptionPractise\ExceptionPractise\obj\Debug\ExceptionPractise.pdb
